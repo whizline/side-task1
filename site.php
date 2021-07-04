@@ -298,8 +298,6 @@ function tinput($data) {
 
         </div>
 
-
-
     </form>
 
     <div class="container" style="background-color:#f1f1f1" ;>
