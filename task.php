@@ -18,7 +18,7 @@ echo "<br>";
 $num  = range(0,5);
 echo "First Method" ."<br>";
 
-print_r ($num);
+
 
 echo "<br>";
 echo "<br>";
@@ -42,7 +42,6 @@ $a=array("a"=>2,"b"=>4,"c"=>15);
 echo array_sum($a);
 
 ?>
-
 
 </body>
 
