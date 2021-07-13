@@ -297,7 +297,7 @@ function tinput($data) {
             <button type="submit" name="register">Register</button>
 
         </div>
-
+        
     </form>
 
     <div class="container" style="background-color:#f1f1f1" ;>
